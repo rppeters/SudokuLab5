@@ -13,7 +13,7 @@ public enum eGameDifficulty {
 	private eGameDifficulty(int iDifficulty) {
 		this.iDifficulty = iDifficulty;
 	}
-	
+	//:)
 	public int getDifficulty() {
 		return iDifficulty;
 	}
